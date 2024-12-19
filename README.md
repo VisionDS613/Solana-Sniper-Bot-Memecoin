@@ -55,7 +55,7 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
    ```
 2. **Install Dependencies**:
    ```bash
-   cd Solana-Sniper-Memecoin-Bot
+   cd Solana-Sniper-Bot-Memecoin
    npm install
    ```
 3. **Configure Your Wallet**: Update the configuration file with your wallet details and desired settings.
